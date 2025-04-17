@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+imagededup
+python-multipart
+Pillow
+pillow-heif
