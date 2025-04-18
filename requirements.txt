@@ -4,3 +4,4 @@ imagededup
 python-multipart
 Pillow
 pillow-heif
+gunicorn
